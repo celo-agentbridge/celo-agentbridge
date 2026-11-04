@@ -1,0 +1,15 @@
+{
+  "type": "https://eips.ethereum.org/EIPS/eip-8004#registration-v1",
+  "name": "Celo AgentBridge",
+  "description": "Open-source infrastructure for AI agent identity, discovery, autonomous payments, programmable escrow and verifiable transactions on Celo.",
+  "services": [
+    {
+      "name": "web",
+      "endpoint": "https://celo-agentbridge.github.io/celo-agentbridge/"
+    }
+  ],
+  "x402Support": false,
+  "active": true,
+  "registrations": [],
+  "supportedTrust": []
+}
